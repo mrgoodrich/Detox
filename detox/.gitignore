@@ -8,6 +8,7 @@ ios/EarlGrey/Tests/FunctionalTests/TestRig/Resources
 Detox.framework
 Detox.framework.tar
 detox-*.aar
+DetoxAndroid/
 
 lib
 

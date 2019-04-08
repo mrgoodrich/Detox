@@ -91,3 +91,5 @@ dependencies {
     // noinspection GradleDynamicVersion
     testImplementation 'com.facebook.react:react-native:+'
 }
+
+apply from: './detox-publishing.gradle'
